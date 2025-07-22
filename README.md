@@ -6,7 +6,7 @@ This project leverages a physics-aware variant of the MolGAN framework (PhyMolGA
 
 ### Dataset
 
-The datasets are organized by PDBbind version and presence of Without physics-based features:
+The datasets are organized by PDBbind version and presence of With & Without physics-based features:
 
 - **PDBbind v19**
   - With physics features: **samples**
